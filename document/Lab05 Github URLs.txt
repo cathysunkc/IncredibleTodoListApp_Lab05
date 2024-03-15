@@ -1,0 +1,15 @@
+Lab Assignment 5: Navigation and Routing
+
+In the ZIP file, please find:
+
+1. The IncredibleTodoListApp Project (without "node_modules" folder)
+   URL on Github: https://github.com/cathysunkc/IncredibleTodoListApp_Lab05
+
+
+2. Test Result
+   URL on Github: 
+   https://github.com/cathysunkc/IncredibleTodoListApp_Lab05/tree/main/document/Lab05_TestResult_About_CathySun.png
+   https://github.com/cathysunkc/IncredibleTodoListApp_Lab05/tree/main/document/Lab05_TestResult_Home_CathySun.png
+
+
+
